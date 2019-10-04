@@ -36,3 +36,17 @@ h1 {
 img {
   text-align: center;
 }
+
+.logo{
+	width:800px;
+	margin:auto;
+}
+
+.nav{
+		width:800px;
+	margin:auto;
+}
+
+.fix{
+	clear:both;
+}
